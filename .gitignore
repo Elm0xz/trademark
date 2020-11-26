@@ -1,0 +1,6 @@
+.idea/gradle.xml
+.idea/workspace.xml
+
+*.iml
+out
+.gradle
